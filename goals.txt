@@ -1,0 +1,33 @@
+* set a goals
+Web-forum(multi-blog)
+___
+
+* structuring templates
+* design db
+* whoosh search
+* include flask-admin
+* write auth using flask-login
+* add email verify
+* write main functional
+* handle exceptions
+
+? events section
+* threading()
+* notice for all users
+* follow
+
+
+* write api using flask-restful
+* test
+* deploy(heroku)
+
+________________ OLD ________________
++. structuring templates.
++. design db tables: write models with incaps. methods(fill db)
++. add whoosh-search
++. write admin app: create admin page(s)
++. write main
++. write auth
++. write api
++. test
++. deploy
